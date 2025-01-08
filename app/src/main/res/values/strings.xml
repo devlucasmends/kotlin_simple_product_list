@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="cesta_de_frutas">Cesta de Frutas</string>
+    <string name="alert_filling_of_fields">Necessário preencher todos os dados</string>
+    <string name="alert_product_created_success">Produto criado com sucesso</string>
+    <string name="name">Nome</string>
+    <string name="description">Descrição</string>
+    <string name="value">Valor</string>
+    <string name="save">Salvar</string>
+    <string name="title_appbar">Lista de Produtos</string>
+</resources>
